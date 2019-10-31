@@ -5,9 +5,10 @@ Education
 
 Lehigh University, Bethlehem, PA										     May, 2023
 
-College of Business and Economics: Business Undeclared
+College of Business and Economics
 
 Work Eperience
+
 MARC INC, Raymond, MS								          June, 2017- August, 2019
 Mechanics Assistant
 •	Handled and assisted in the moving, cleaning, and maintaining of aircraft.
