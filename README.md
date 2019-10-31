@@ -1,7 +1,10 @@
 # AboutMe- 
-Hunter Bryson 
+# Hunter Bryson 
+
 Education
+
 Lehigh University, Bethlehem, PA										     May, 2023
+
 College of Business and Economics
 St. Andrews Episcopal School, Jackson, MS								     May, 2019
 4-year varsity letterman
